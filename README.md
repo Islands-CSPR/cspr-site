@@ -1,2 +1,2 @@
-# cspr-site
-idk i just asked to help
+# CSPR Database
+Scammer database for the Roblox game Islands
